@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(253, 239, 207);
+}
+
+header {
+    text-align: center;
+}
+h1 {
+    color:rgb(72, 72, 190)
+}
+
+h2 {
+    color:rgb(72, 72, 190)
+}
+
+h3 {
+    color:rgb(72, 72, 190)
+}
+
+p {
+    color: rgb(41, 83, 84);
+}
+
+blockquote {
+    color: rgb(3, 82, 82);
+}
+
+select {
+    background-color: rgb(0, 12, 60);
+    color: aqua;
+}
+
+footer {
+    text-align: center;    
+}
+
+.logo {
+    height: 100px;
+}
+
+.moxa {
+    height: 100px;
+    }
